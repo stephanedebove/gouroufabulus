@@ -8,7 +8,7 @@ Voir la vidéo expliquant ce code : [https://www.youtube.com/watch?v=tlqjd9TTHXE
 
 Requirements :
 
-- [clé API OpenAI à récupérer sur https://platform.openai.com/api-keys](https://platform.openai.com/api-keys) (voir app.py pour comment l’installer)
+- clé API OpenAI à récupérer sur [https://platform.openai.com/api-keys](https://platform.openai.com/api-keys) (voir app.py pour comment l’installer)
 - pip install llama-index
 - pip install streamlit
 
